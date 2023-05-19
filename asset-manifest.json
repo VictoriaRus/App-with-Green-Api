@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.1ef796a8.css",
+    "main.js": "./static/js/main.20032458.js",
+    "static/media/fon-whatsapp-33.jpg": "./static/media/fon-whatsapp-33.e5f857c038a272aa586c.jpg",
+    "index.html": "./index.html",
+    "main.1ef796a8.css.map": "./static/css/main.1ef796a8.css.map",
+    "main.20032458.js.map": "./static/js/main.20032458.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef796a8.css",
+    "static/js/main.20032458.js"
+  ]
+}
