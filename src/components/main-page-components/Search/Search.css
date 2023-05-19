@@ -1,0 +1,20 @@
+.search {
+    width: 95%;
+    padding: 9px 12px;
+    margin: 0 12px 8px 12px;
+    background-color: var(--search-bg-color);
+    border: 1px solid var(--search-border-color);
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.search:focus {
+    border-color: var(--main-color);
+}
+
+.label-search {
+    display: block;
+    font-size: 16px;
+    padding: 9px 12px;
+    margin-bottom: 8px;
+}

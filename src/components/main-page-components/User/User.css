@@ -1,0 +1,6 @@
+.user {
+    font-size: 17px;
+    background: var(--search-bg-color);
+    padding: 18px 16px;
+    margin-bottom: 7px;
+}
